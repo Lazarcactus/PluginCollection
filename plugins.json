@@ -315,6 +315,13 @@
 			"desc": "Protects loot dropped upon death",
 			"jarName": "LootProtect.jar",
 			"configName": "LootProtect"
+		},
+		{
+			"name" : "PlayerTracker",
+			"desc" : "tracks players"
+			"jarName" : "PlayerTracker.jar"
+			"configName" : "PlayerTracker"
+		 
 		}
 	]
 }
